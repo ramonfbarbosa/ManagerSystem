@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RoaY5PvvUqaCe4Yj49zE4WGAvMRf5HqskFd82kTESXkPsSCc7vryGZ/BIgcw89ixWTsuLgiOT8JWmsWxDGf3bA==",
+  "dgSpecHash": "YkY8GDxqbptUZLB63D1GZy61hA94bqYMaLBKA5mZWZwTD/X2+oM4bKspM6XbYT2i+FHf/uyLhGqL9NYmYwpZVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.Infra\\Manager.Infra.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aluno 03\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
