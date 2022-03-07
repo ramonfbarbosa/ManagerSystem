@@ -1,26 +1,57 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "FluentValidation/9.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FluentValidation/9.3.0": {
+      "sha512": "C44l6Ih+YwpED/TsXfl6LIq6Z4wLXahstnr6T70uUg1Hs7/bLBKKAo9Nl0sLhVjDE8TA+fF+O3IM4nDrwabcSQ==",
+      "type": "package",
+      "path": "fluentvalidation/9.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluent-validation-icon.png",
+        "fluentvalidation.9.3.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net461/FluentValidation.dll",
+        "lib/net461/FluentValidation.xml",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "FluentValidation >= 9.3.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\55219\\.nuget\\packages\\": {}
+    "C:\\Users\\aluno 03\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55219\\Documents\\C# Projects - Ramon\\Manager.API\\Manager.Domain\\Manager.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.Domain\\Manager.Domain.csproj",
       "projectName": "Manager.Domain",
-      "projectPath": "C:\\Users\\55219\\Documents\\C# Projects - Ramon\\Manager.API\\Manager.Domain\\Manager.Domain.csproj",
-      "packagesPath": "C:\\Users\\55219\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55219\\Documents\\C# Projects - Ramon\\Manager.API\\Manager.Domain\\obj\\",
+      "projectPath": "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.Domain\\Manager.Domain.csproj",
+      "packagesPath": "C:\\Users\\aluno 03\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\55219\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aluno 03\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -45,6 +76,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[9.3.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

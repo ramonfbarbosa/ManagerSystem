@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55219\\Documents\\C# Projects - Ramon\\Manager.API\\Manager.API\\Manager.API.csproj": {}
+    "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.API\\Manager.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55219\\Documents\\C# Projects - Ramon\\Manager.API\\Manager.API\\Manager.API.csproj": {
+    "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.API\\Manager.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55219\\Documents\\C# Projects - Ramon\\Manager.API\\Manager.API\\Manager.API.csproj",
+        "projectUniqueName": "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.API\\Manager.API.csproj",
         "projectName": "Manager.API",
-        "projectPath": "C:\\Users\\55219\\Documents\\C# Projects - Ramon\\Manager.API\\Manager.API\\Manager.API.csproj",
-        "packagesPath": "C:\\Users\\55219\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55219\\Documents\\C# Projects - Ramon\\Manager.API\\Manager.API\\obj\\",
+        "projectPath": "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.API\\Manager.API.csproj",
+        "packagesPath": "C:\\Users\\aluno 03\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\55219\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aluno 03\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

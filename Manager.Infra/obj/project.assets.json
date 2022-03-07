@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\55219\\.nuget\\packages\\": {}
+    "C:\\Users\\aluno 03\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55219\\Documents\\C# Projects - Ramon\\Manager.API\\Manager.Infra\\Manager.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.Infra\\Manager.Infra.csproj",
       "projectName": "Manager.Infra",
-      "projectPath": "C:\\Users\\55219\\Documents\\C# Projects - Ramon\\Manager.API\\Manager.Infra\\Manager.Infra.csproj",
-      "packagesPath": "C:\\Users\\55219\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55219\\Documents\\C# Projects - Ramon\\Manager.API\\Manager.Infra\\obj\\",
+      "projectPath": "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.Infra\\Manager.Infra.csproj",
+      "packagesPath": "C:\\Users\\aluno 03\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\55219\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aluno 03\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

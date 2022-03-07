@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4MvjPho1qhCyYt6kthgmMw5X8HYulqn2OWtr6g/VMaZH4SbDPUbB5Dpw6q+3eIFXZddQ7wCyjQxfqS3FuxO1bQ==",
+  "dgSpecHash": "/OJVo7FitobkLShjJ9RdfCdCviAecfzQikBYVI/uuA//WrIID4KoiroOGz8a5npuMX+mHhlxsYjcqYQzvTGQsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\55219\\Documents\\C# Projects - Ramon\\Manager.API\\Manager.Domain\\Manager.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\aluno 03\\Documents\\.NET Projects\\ManagerSystem\\Manager.Domain\\Manager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluno 03\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
