@@ -2,10 +2,8 @@
 using Manager.Infra.Context;
 using Manager.Infra.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Manager.Infra.Repositories
@@ -14,7 +12,7 @@ namespace Manager.Infra.Repositories
     {
         public readonly ManagerContext _context;
 
-        public BaseRepository(ManagerContext context)
+        public BaseRepository(ManagerContext context) : base(context)
         {
             _context = context;
         }
