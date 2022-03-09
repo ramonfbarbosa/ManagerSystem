@@ -12,7 +12,7 @@ namespace Manager.Infra.Repositories
     {
         public readonly ManagerContext _context;
 
-        public BaseRepository(ManagerContext context) : base(context)
+        public BaseRepository(ManagerContext context)
         {
             _context = context;
         }

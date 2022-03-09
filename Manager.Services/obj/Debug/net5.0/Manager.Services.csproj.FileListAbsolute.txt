@@ -1,0 +1,12 @@
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Services\bin\Debug\net5.0\Manager.Services.deps.json
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Services\bin\Debug\net5.0\Manager.Services.dll
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Services\bin\Debug\net5.0\Manager.Services.pdb
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Services\obj\Debug\net5.0\Manager.Services.csproj.AssemblyReference.cache
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Services\obj\Debug\net5.0\Manager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Services\obj\Debug\net5.0\Manager.Services.AssemblyInfoInputs.cache
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Services\obj\Debug\net5.0\Manager.Services.AssemblyInfo.cs
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Services\obj\Debug\net5.0\Manager.Services.csproj.CoreCompileInputs.cache
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Services\obj\Debug\net5.0\Manager.Services.dll
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Services\obj\Debug\net5.0\refint\Manager.Services.dll
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Services\obj\Debug\net5.0\Manager.Services.pdb
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Services\obj\Debug\net5.0\ref\Manager.Services.dll

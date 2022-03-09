@@ -1,0 +1,12 @@
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\bin\Debug\net5.0\Manager.Domain.deps.json
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\bin\Debug\net5.0\Manager.Domain.dll
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\bin\Debug\net5.0\Manager.Domain.pdb
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.AssemblyReference.cache
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\Manager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfoInputs.cache
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfo.cs
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\Manager.Domain.dll
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\refint\Manager.Domain.dll
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\Manager.Domain.pdb
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\ref\Manager.Domain.dll
