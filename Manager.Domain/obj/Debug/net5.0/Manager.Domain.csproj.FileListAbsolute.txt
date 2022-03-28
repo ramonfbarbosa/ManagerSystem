@@ -10,3 +10,6 @@ C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug
 C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\refint\Manager.Domain.dll
 C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\Manager.Domain.pdb
 C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\ref\Manager.Domain.dll
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\bin\Debug\net5.0\Manager.Core.dll
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\bin\Debug\net5.0\Manager.Core.pdb
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.CopyComplete

@@ -38,5 +38,5 @@ C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.API\obj\Debug\ne
 C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.API\obj\Debug\net5.0\Manager.API.pdb
 C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.API\obj\Debug\net5.0\Manager.API.genruntimeconfig.cache
 C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.API\obj\Debug\net5.0\ref\Manager.API.dll
-C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.API\bin\Debug\net5.0\Humanizer.dll
-C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.API\bin\Debug\net5.0\Manager.Core.dll
+C:\Users\aluno 03\Documents\.NET Projects\ManagerSystem\Manager.API\bin\Debug\net5.0\Manager.Core.pdb

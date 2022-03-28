@@ -17,7 +17,7 @@ namespace Manager.Infra.Repositories
             _context = context;
         }
 
-        public virtual async Task<T> Get(long id)
+        public virtual async Task<T> GetById(long id)
         {
             var obj = await _context.Set<T>()
                                     .AsNoTracking()
