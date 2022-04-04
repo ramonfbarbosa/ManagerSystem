@@ -51,7 +51,7 @@ namespace Manager.Infra.Repositories
 
         public virtual async Task Delete(long id)
         {
-            var obj = await Get(id);
+            var obj = await GetById(id);
             
             if(obj != null)
             {
